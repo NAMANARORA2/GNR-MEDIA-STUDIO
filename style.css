@@ -80,3 +80,11 @@ if(form){
     object-fit: cover;
     border-radius: 12px;
 }
+.logo {
+    text-align: center;
+}
+
+.logo img {
+    display: block;
+    margin: 0 auto;
+}
